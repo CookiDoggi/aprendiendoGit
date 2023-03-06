@@ -1,0 +1,2 @@
+Otra rama sirve para poder modificar como una copia del proyecto, y si te gusta,
+luego lo puedes añadir a la rama main, si no te gusta lo puedes descartar.
