@@ -1,0 +1,3 @@
+#aquí ponemos los archivos/directorios que no queremos que vayan al stagement
+#siempre hacer commit del .gitignore
+.env
